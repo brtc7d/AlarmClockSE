@@ -13,4 +13,4 @@ Identify the top-level functional requirement for the clock, and model it with a
 
 ## Diagram
 
-!(https://github.com/brtc7d/AlarmClockSE/raw/master/Untitled%20Diagram.png "Alarm Clock Use Case Diagram")
+![Diagram](https://github.com/brtc7d/AlarmClockSE/raw/master/Untitled%20Diagram.png "Alarm Clock Use Case Diagram")
